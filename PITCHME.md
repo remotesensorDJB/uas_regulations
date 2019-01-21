@@ -73,12 +73,53 @@ Powerful business entities (Amazon anyone?) begin to lobby for clearer and more 
 @css[fragment](The FAA Mondernization and Reform Act of 2012 includes Section 333, providing a means for legal commercial operations without a public partner...)  
   
 @css[fragment](Section 333 exemptions are more flexible than COAs, with fewer flight area restrictions...)  
++++  
+@css[fragment](But still require a lengthy and cumbersome application process)  
   
-@css[fragment](But still require a lengthy and cumbersome application process)
+@css[fragment](and REQUIRES an FAA licensed pilot of sport rating or higher!)
 
 Note: 
 - Section 333 acts as a temporary solution while the FAA can consider more substantive solutions...eventually leading to Part 107. 
+- For years, the regulatory landscape is uncertain for small businesses, and for government entities, who were restrcited from pursuing Section 333 exemption. 
+- ALL commercial operations require the supervision of an FAA licensed pilot! 
 +++
+@title[how we got here]
+#### how we got here...
+##### Part 107
+Since June of 2016, [Part 107 of the FAA Code of Federal Restrictions (CFR)](https://www.ecfr.gov/cgi-bin/text-idx?SID=e331c2fe611df1717386d29eee38b000&mc=true&node=pt14.2.107&rgn=div5) lowers the barriers to entry in the commerical UAS sphere.  
+  
+@css[fragment](Part 107 defines the operating limitations of small UAS systems under 55lb...)@css[fragment](and establishes the Remote Pilot in Command certification)  
+  
+@css[fragment](individuals can now seek certification to fly UASes commercially without a lengthy and cumbersome application)
++++
+@title[how we got here]
+#### how we got here...
+##### COA vs Section 333 vs Part 107 
+   
+https://jrupprechtlaw.com/section-333-exemption-vs-part-107-vs-public-coa-one-choose 
++++
+@title[part 107 overview]
+### Part 107 Overview 
+
+@ul
+- < 55lb
+- <= 400ft AGL (or 400ft above structure)
+- Daytime only (30 min before sunrise/30 min after sunset)
+- VLOS only
+- 3+ miles visibility
+@ulend
++++
+@ul
+- Yield right of way to manned aircraft
+- No flight over non-participating people
+- No operations from moving aircraft
+- No operations from moving vehicle (unless in a remote area)
+- Flight in airspace other than "G" requires ATC **permission**
+@ulend 
+
+Note: 
+- Let's take a look at the major guidelines of Part 107, and understand how they apply to our operations
+ 
 
 
 

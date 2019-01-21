@@ -70,7 +70,7 @@ Note:
 ##### Section 333 Exemptions
 Powerful business entities (Amazon anyone?) begin to lobby for clearer and more efficient regulations.  
   
-@css[fragment](The FAA Mondernization and Reform Act of 2012 includes Section 333, providing a means for legal commercial operations without a public partner)...  
+@css[fragment](The FAA Mondernization and Reform Act of 2012 includes Section 333, providing a means for legal commercial operations without a public partner...)  
   
 @css[fragment](Section 333 exemptions are more flexible than COAs, with fewer flight area restrictions...)  
   

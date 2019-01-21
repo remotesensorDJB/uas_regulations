@@ -8,7 +8,7 @@
 - How we got here (the evolution of drone regulations)
 - FAA Part 107 Overview
 - Operating Limitations
-- Part 07 Licensing
+- Part 107 Licensing
 - Airman's Knowledge 
 - Resources for further study  
 ---
@@ -104,10 +104,15 @@ https://jrupprechtlaw.com/section-333-exemption-vs-part-107-vs-public-coa-one-ch
 @ul
 - < 55lb
 - <= 400ft AGL (or 400ft above structure)
+- Not interfere with airport/heliport operations
 - Daytime only (30 min before sunrise/30 min after sunset)
 - VLOS only
 - 3+ miles visibility
 @ulend
+
+Note: 
+- Let's take a look at the major guidelines of Part 107, and understand how they apply to our operations
+
 +++
 @ul
 - Yield right of way to manned aircraft
@@ -115,10 +120,15 @@ https://jrupprechtlaw.com/section-333-exemption-vs-part-107-vs-public-coa-one-ch
 - No operations from moving aircraft
 - No operations from moving vehicle (unless in a remote area)
 - Flight in airspace other than "G" requires ATC **permission**
-@ulend 
+- Operations supervised by rPIC certificate holder
+@ulend
 
-Note: 
-- Let's take a look at the major guidelines of Part 107, and understand how they apply to our operations
+Note: Looking at the Part 107 restrictions, we see a couple of themes emerge...airspace, weather, decision making, airport operations, communications, etc.
+---  
+@title[part 107 certification]
+#### Part 107
+##### Remote pilot in command (rPIC) Certification
+
  
 
 

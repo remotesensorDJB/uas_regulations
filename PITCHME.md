@@ -34,11 +34,13 @@ As the popularity of model aircraft grows, the federal government sees the need 
 #### how we got here...
 The FAA establishes [**Advisory Circular 91-57, Model Aircraft Operating Standards**](https://www.faa.gov/regulations_policies/advisory_circulars/index.cfm/go/document.information/documentID/1028086), permitting model aircraft use up to 400ft AGL with the following restrictions... 
 +++ 
-- 1) The aircraft is flown strictly for hobby or recreational use |
-- 2) The aircraft operates in accordance with a community-based set of safety guidelines and within the programming of a nationwide community-based organization (CBO) |
-- 3) The aircraft is limited to not more than 55 pounds |
-- 4) The aircraft operates in a manner that does not interfere with, and gives way to, any manned aircraft |
-- 5) w/i 5 miles of an airport, the operator of the model aircraft provides the airport operator or ATC with prior notice of the operation |
+@ol
+- The aircraft is flown strictly for hobby or recreational use 
+- The aircraft operates in accordance with a community-based set of safety guidelines and within the programming of a nationwide community-based organization (CBO) 
+- The aircraft is limited to not more than 55 pounds 
+- The aircraft operates in a manner that does not interfere with, and gives way to, any manned aircraft 
+- w/i 5 miles of an airport, the operator of the model aircraft provides the airport operator or ATC with prior notice of the operation 
+@olend
 +++ 
 @title[how we got here]
 #### how we got here...

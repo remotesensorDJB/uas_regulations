@@ -210,9 +210,9 @@ Part 107 Regulations state that we must have **3 statue miles visibility** in ou
 http://www.aviationweather.gov  
 @ul
 - **METAR**: Meteorological Aerodrome Report
-- **TAF**: Terminal Area Forecast
+- **TAF**: Terminal Aerodrome Forecast
 - **PIREP**: Pilot Report 
-- **SIGMET**: Significant Meteorological Conditions
+- **SIGMET**: Significant Meteorological Information
 +++
 ##### Aviation Weather
 ##### METAR Decoding

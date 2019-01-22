@@ -184,6 +184,12 @@ Where do sUAS fly?
 ##### Part 107 Knowledge Test
 ##### Airspace Classifications: Sectional Charts
 <iframe class="stretch" data-src="https://skyvector.com/?ll=38.22554539698933,-85.70571898828656&chart=301&zoom=1"></iframe>
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications: Sectional Chart Legend
+![Sectional Legend](images/sectional-legend.png)
++++
+
 
 
 

@@ -172,14 +172,14 @@ The atmosphere is divided into a series of airspace classes with unique rules ab
 ##### Airspace Classifications
 Where do sUAS fly?  
 
-@css[fragment](Mainly class...)@css[fragment](**G!**)  
+@css[fragment](Mainly class...)@css[fragment](**G!**)    
   @css[fragment](Up to 400ft AGL)
 @css[fragment](Maybe class...)@css[fragment](**B, C, or D!**)  
-  @css[fragment](With ATC permissions)
-@css[fragment](Rarely class...)@css[fragment](**E**!)
-  @css[fragment](If flying around tall structures)
-@css[fragment](Never class...)@css[fragment](**A!**)
-  @css[fragment](Far too high. Breaks VFR and VLOS requirements)
+  @css[fragment](With ATC permissions)  
+@css[fragment](Rarely class...)@css[fragment](**E**!)  
+  @css[fragment](If flying around tall structures)  
+@css[fragment](Never class...)@css[fragment](**A!**)  
+  @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
 
 
 

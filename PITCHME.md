@@ -126,8 +126,64 @@ Note:
 Note: Looking at the Part 107 restrictions, we see a couple of themes emerge...airspace, weather, decision making, airport operations, communications, etc.
 ---  
 @title[part 107 certification]
-#### Part 107
-##### Remote pilot in command (rPIC) Certification
+##### [Part 107: Remote Pilot Certification](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/) 
+@ol
+- Be 16 years of age
+- Pass a Security Threat Assessment (STA) by the TSA
+- Pass an initial knowledge test
+- Every 24 months...pass a recurrent knowledge test
+@olend
++++
+##### Part 107 Knowledge Test
+60 questions. 120 minute time limit.  
+  
+@css[fragment](Must pass with a 70%...42 questions correct)
++++
+##### Part 107 Knowledge Test
+Covers...
+@ul
+- sUAS regulations
+- Airspace Classifications
+- Aviation weather
+- sUAS loading and performance
+- Operations (emergency procedures, crew management, decision-making, airport operations, communications, etc)
+-@ulend
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications
+The **National Airspace System** defines the airspace, navigation systems and airports that comprise the aviation infrastructure n the United States.  
+  
+The atmosphere is divided into a series of airspace classes with unique rules about aircraft operations within them.
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications
+- Class A: A for altitude! 18,000ft MSL and above
+- Class B: B for busy! The airspace surrounding the nation's busiest airports. (Think JFK/ORD)
+- Class C: C for crowded! Airspace around major airports, but not the busiest. (Think SDF)
+- Class D: D for dialog! Airspace around airports with a control tower to talk to. (Think LOU)
+- Class E: E for everywhere! All airspace that isn't A, B, C, D, or G.
+- Class G: G for ground! All airspace from the surface to 1,200ft AGL that isn't A, B, C, or D. 
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications
+![Airspace](images/airspace.jpg)
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications
+Where do sUAS fly?  
+
+@css[fragment](Mainly class...)@css[fragment](**G!**)  
+  @css[fragment](Up to 400ft AGL)
+@css[fragment](Maybe class...)@css[fragment](**B, C, or D!**)  
+  @css[fragment](With ATC permissions)
+@css[fragment](Rarely class...)@css[fragment](**E**!)
+  @css[fragment](If flying around tall structures)
+@css[fragment](Never class...)@css[fragment](**A!**)
+  @css[fragment](Far too high. Breaks VFR and VLOS requirements)
+
+
+
+
 
  
 

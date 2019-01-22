@@ -272,9 +272,10 @@ But there are TONS of online resources to help prep for the exam. Here are some 
 - [3DR Study Guides...clear and simple information, and some great practice tests](https://3dr.com/faa/study-guides/)
 - [Rupprecht Law Drone Law Blog...surprising and thorough discussions of all things drone regulation](https://jrupprechtlaw.com/part-107-test-study-guide)
 - [FAA Study Guide...basic, but from the horse's mouth](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/remote_pilot_study_guide.pdf)
-- Infinite resources out there...Google! 
+- [FAA Become a Drone Pilot...the full step by step guide](https://www.faa.gov/uas/commercial_operators/become_a_drone_pilot/)
 @ulend
-
++++
+#### Finished
 
 
 

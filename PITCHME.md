@@ -256,7 +256,7 @@ All runways share a similar **traffic pattern**, defined by **downwind, base, an
 ##### Airport Operations
 Given this information, where is the following airplane?  
   
-@css[fragment(Frankfort traffic, Cessna nine six whiskey is turning left base for runway seven...Frankfort traffic)  
+@css[fragment](Frankfort traffic, Cessna nine six whiskey is turning left base for runway seven...Frankfort traffic)  
   
 @css[fragment](The airplane is **west** of the airfield)
 +++

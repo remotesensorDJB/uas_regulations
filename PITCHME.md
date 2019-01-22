@@ -151,18 +151,18 @@ Covers...
 +++
 ##### Part 107 Knowledge Test
 ##### Airspace Classifications
-The **National Airspace System** defines the airspace, navigation systems and airports that comprise the aviation infrastructure n the United States.  
+The **National Airspace System** defines the airspace, navigation systems and airports that comprise the aviation infrastructure in the United States.  
   
 The atmosphere is divided into a series of airspace classes with unique rules about aircraft operations within them.
 +++
 ##### Part 107 Knowledge Test
 ##### Airspace Classifications
-- Class A: A for altitude! 18,000ft MSL and above
-- Class B: B for busy! The airspace surrounding the nation's busiest airports. (Think JFK/ORD)
-- Class C: C for crowded! Airspace around major airports, but not the busiest. (Think SDF)
-- Class D: D for dialog! Airspace around airports with a control tower to talk to. (Think LOU)
-- Class E: E for everywhere! All airspace that isn't A, B, C, D, or G.
-- Class G: G for ground! All airspace from the surface to 1,200ft AGL that isn't A, B, C, or D. 
+- **Class A**: A for altitude! 18,000ft MSL and above
+- **Class B**: B for busy! The airspace surrounding the nation's busiest airports. (Think JFK/ORD)
+- **Class C**: C for crowded! Airspace around major airports, but not the busiest. (Think SDF)
+- **Class D**: D for dialog! Airspace around airports with a control tower to talk to. (Think LOU)
+- **Class E**: E for everywhere! All airspace that isn't A, B, C, D, or G.
+- **Class G**: G for ground! All airspace from the surface to 1,200ft AGL that isn't A, B, C, or D. 
 +++
 ##### Part 107 Knowledge Test
 ##### Airspace Classifications

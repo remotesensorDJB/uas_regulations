@@ -177,7 +177,7 @@ Where do sUAS fly?
 @css[fragment](Maybe class...)@css[fragment](**B, C, or D!**)  
   @css[fragment](With ATC permissions)  
 @css[fragment](Rarely class...)@css[fragment](**E**!)  
-  @css[fragment](If flying around tall structures)  
+  @css[fragment](If flying around tall structures/uncontrolled airports)  
 @css[fragment](Never class...)@css[fragment](**A!**)  
   @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
 +++

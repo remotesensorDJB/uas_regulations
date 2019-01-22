@@ -181,7 +181,7 @@ Where do sUAS fly?
 ##### Low Altitude Authorization and Notification Capability
 **LAANC** is a new automated system for obtained permission to fly in controlled airspace.  
   
-A number of companies participate, offering services to gain clearance fro Part 107 operations. 
+A number of companies participate, offering services to gain clearance for Part 107 operations. 
 - [Airmap](https://www.airmap.com/airspace-authorization/)
 - [Skyward](https://skyward.io/laanc/)
 - [DJI...to be baked into UAS computer](https://www.dji.com/newsroom/news/faa-approves-dji-to-authorize-customer-flights-in-controlled-airspace)

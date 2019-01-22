@@ -177,7 +177,19 @@ Where do sUAS fly?
 @css[fragment](Never class...)@css[fragment](**A!**)  
   @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
 +++
-##### Airspace: Low Altitude Authorization 
+##### Airspace Classification
+##### Low Altitude Authorization and Notification Capability
+**LAANC** is a new automated system for obtained permission to fly in controlled airspace.  
+  
+A number of companies participate, offering services to gain clearance fro Part 107 operations. 
+- [Airmap](https://www.airmap.com/airspace-authorization/)
+- [Skyward](https://skyward.io/laanc/)
+- [DJI...to be baked into UAS computer](https://www.dji.com/newsroom/news/faa-approves-dji-to-authorize-customer-flights-in-controlled-airspace)
++++
+##### Airspace Classification
+##### Low Altitude Authorization and Notification Capability
+<iframe class="stretch" data-src="https://faa.maps.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad"></iframe>
++++
 ##### Airspace Classifications: Sectional Charts
 <iframe class="stretch" data-src="https://skyvector.com/?ll=38.20556157894775,-85.70136235257931&chart=21&zoom=1"></iframe>
 +++

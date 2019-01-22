@@ -189,11 +189,10 @@ Part 107 Regulations state that we must have **3 statue miles visibility** in ou
 @css[fragment](How can we know in advance what weather conditions to expect?)  
   
 @css[fragment](FAA provides two main sources...)  
-@css[fragment]
-(@ul
-- Surface Aivation Weather Observations
+@ul
+- Surface Aviation Weather Observations
 - Aviation Weather Reports
-@ulend)  
+@ulend  
 
 
 

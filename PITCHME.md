@@ -180,6 +180,11 @@ Where do sUAS fly?
   @css[fragment](If flying around tall structures)  
 @css[fragment](Never class...)@css[fragment](**A!**)  
   @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
++++
+##### Part 107 Knowledge Test
+##### Airspace Classifications: Sectional Charts
+<iframe class="stretch" data-src="https://skyvector.com/?ll=38.22554539698933,-85.70571898828656&chart=301&zoom=1"></iframe>
+
 
 
 

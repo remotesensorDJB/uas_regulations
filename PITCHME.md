@@ -177,6 +177,7 @@ Where do sUAS fly?
 @css[fragment](Never class...)@css[fragment](**A!**)  
   @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
 +++
+##### Airspace: Low Altitude Authorization 
 ##### Airspace Classifications: Sectional Charts
 <iframe class="stretch" data-src="https://skyvector.com/?ll=38.22554539698933,-85.70571898828656&chart=301&zoom=1"></iframe>
 +++
@@ -218,6 +219,37 @@ http://www.aviationweather.gov
 ##### METAR Decoding
 ![metar](images/metar.png)
 ---
+##### Airport Operations
+Although UAS operations may rarely occur in the vicinity of airports, an knoweldge of airport operations is required for Part 107 certification. 
+A chief concern is understanding traffic patterns, and an ability to interpret pilot communications of their position around an airport.  
++++
+##### Airport Operations
+Pilots will use the Common Traffic Advisory Frequency (CTAF) or universal communications (UNICOM) frequency to call out their position around uncontrolled airports.  
+  
+You may hear a pilot say...  
+@css[fragment](Springfield traffic...Cessna nine six whiskey is entering a left downwind for runway three two...Springfield traffic)  
+  
+@css[fragment](Based on this information, how do we know that the aircraft is approaching from southwest of the airport?)  
++++
+##### Airport Operations
+Runways are named by the **runway heading**, or the compass direction pointing down the runway.  
+  
+![Runway](images/runway_directions.jpg)
++++
+##### Airport Operations
+All runways share a similar **traffic pattern**, defined by **downwind, base, and final approach legs**  
+  
+![traffic](images/airport_traffic.png)
++++
+##### Airport Operations
+Given this information, where is the following airplane?  
+  
+@css[fragment(Frankfort traffic, Cessna nine six whiskey is turning left base for runway seven...Frankfort traffic)  
+  
+@css[fragment](The airplane is **west** of the airfield)
++++
+##### Airport Operations
+<iframe class="stretch" data-src"https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1"></iframe>
 
 
 

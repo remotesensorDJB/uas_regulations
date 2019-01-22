@@ -148,14 +148,12 @@ Covers...
 - sUAS loading and performance
 - Operations (emergency procedures, crew management, decision-making, airport operations, communications, etc)
 -@ulend
-+++
-##### Part 107 Knowledge Test
+---
 ##### Airspace Classifications
 The **National Airspace System** defines the airspace, navigation systems and airports that comprise the aviation infrastructure in the United States.  
   
 The atmosphere is divided into a series of airspace classes with unique rules about aircraft operations within them.
 +++
-##### Part 107 Knowledge Test
 ##### Airspace Classifications
 - **Class A**: A for altitude! 18,000ft MSL and above
 - **Class B**: B for busy! Around the nation's busiest airports. (Think JFK/ORD)
@@ -164,11 +162,9 @@ The atmosphere is divided into a series of airspace classes with unique rules ab
 - **Class E**: E for everywhere!...that isn't A, B, C, D, or G.
 - **Class G**: G for ground! All airspace from the surface to 1,200ft AGL that isn't A, B, C, or D. 
 +++
-##### Part 107 Knowledge Test
 ##### Airspace Classifications
 ![Airspace](images/airspace.jpg)
 +++
-##### Part 107 Knowledge Test
 ##### Airspace Classifications
 Where do sUAS fly?  
 
@@ -181,14 +177,23 @@ Where do sUAS fly?
 @css[fragment](Never class...)@css[fragment](**A!**)  
   @css[fragment](Far too high. Breaks VFR and VLOS requirements)  
 +++
-##### Part 107 Knowledge Test
 ##### Airspace Classifications: Sectional Charts
 <iframe class="stretch" data-src="https://skyvector.com/?ll=38.22554539698933,-85.70571898828656&chart=301&zoom=1"></iframe>
 +++
-##### Part 107 Knowledge Test
 ##### Airspace Classifications: Sectional Chart Legend
 ![Sectional Legend](images/sectional-legend.png)
-+++
+---
+##### Aviation Weather
+Part 107 Regulations state that we must have **3 statue miles visibility** in our flight area.  
+  
+@css[fragment](How can we know in advance what weather conditions to expect?)  
+  
+@css[fragment](FAA provides two main sources...)  
+@css[fragment]
+(@ul
+- Surface Aivation Weather Observations
+- Aviation Weather Reports
+@ulend)  
 
 
 

@@ -261,7 +261,7 @@ Given this information, where is the following airplane?
 @css[fragment](The airplane is **west** of the airfield)
 +++
 ##### Airport Operations
-<iframe class="stretch" data-src"https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1"></iframe>
+<iframe class="stretch" data-src="https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1"></iframe>
 ---
 #### Part 107 Test Resources
 There is far too much knowledge assessed on the Part 107 exam to cover in class.  

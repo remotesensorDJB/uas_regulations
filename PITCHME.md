@@ -179,7 +179,7 @@ Where do sUAS fly?
 +++
 ##### Airspace: Low Altitude Authorization 
 ##### Airspace Classifications: Sectional Charts
-<iframe class="stretch" data-src="https://skyvector.com/?ll=38.22554539698933,-85.70571898828656&chart=301&zoom=1"></iframe>
+<iframe class="stretch" data-src="https://skyvector.com/?ll=38.20556157894775,-85.70136235257931&chart=21&zoom=1"></iframe>
 +++
 ##### Airspace Classifications: Sectional Chart Legend
 ![Sectional Legend](images/sectional-legend.png)

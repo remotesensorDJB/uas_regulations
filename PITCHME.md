@@ -158,10 +158,10 @@ The atmosphere is divided into a series of airspace classes with unique rules ab
 ##### Part 107 Knowledge Test
 ##### Airspace Classifications
 - **Class A**: A for altitude! 18,000ft MSL and above
-- **Class B**: B for busy! The airspace surrounding the nation's busiest airports. (Think JFK/ORD)
-- **Class C**: C for crowded! Airspace around major airports, but not the busiest. (Think SDF)
-- **Class D**: D for dialog! Airspace around airports with a control tower to talk to. (Think LOU)
-- **Class E**: E for everywhere! All airspace that isn't A, B, C, D, or G.
+- **Class B**: B for busy! Around the nation's busiest airports. (Think JFK/ORD)
+- **Class C**: C for crowded! Around major airports, but not the busiest. (Think SDF)
+- **Class D**: D for dialog! Around airports with a control tower to talk to. (Think LOU)
+- **Class E**: E for everywhere!...that isn't A, B, C, D, or G.
 - **Class G**: G for ground! All airspace from the surface to 1,200ft AGL that isn't A, B, C, or D. 
 +++
 ##### Part 107 Knowledge Test

@@ -192,7 +192,34 @@ Part 107 Regulations state that we must have **3 statue miles visibility** in ou
 @ul
 - Surface Aviation Weather Observations
 - Aviation Weather Reports
-@ulend  
+@ulend
++++
+##### Aviation Weather
+##### Surface Aviation Weather Observations
+@ul
+- ASOS: Automated surface observing system
+- AWOS: Automated weather observing system
+@ulend
+  
+@css[fragment](Both are associated with airports facilities...)  
+@css[fragment](**Tune to the right frequency, or call the right phone number to listen**)  
+@css[fragment](https://www.faa.gov/air_traffic/flight_info/aeronav/digital_products/dafd/search/) 
++++
+##### Aviation Weather
+##### Aviation Weather Reports
+http://www.aviationweather.gov  
+@ul
+- **METAR**: Meteorological Aerodrome Report
+- **TAF**: Terminal Area Forecast
+- **PIREP**: Pilot Report 
+- **SIGMET**: Significant Meteorological Conditions
++++
+##### Aviation Weather
+##### METAR Decoding
+!(images/metar.png)
+---
+
+
 
 
 

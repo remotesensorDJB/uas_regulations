@@ -102,7 +102,7 @@ https://jrupprechtlaw.com/section-333-exemption-vs-part-107-vs-public-coa-one-ch
 ### Part 107 Overview 
 
 @ul
-- < 55lb
+- < 55lb (and registered with the FAA)
 - <= 400ft AGL (or 400ft above structure)
 - Not interfere with airport/heliport operations
 - Daytime only (30 min before sunrise/30 min after sunset)
@@ -143,9 +143,9 @@ Note: Looking at the Part 107 restrictions, we see a couple of themes emerge...a
 Covers...
 @ul
 - sUAS regulations
-- Airspace Classifications
-- Aviation weather
 - sUAS loading and performance
+- Airspace Classifications
+- Aviation Weather
 - Operations (emergency procedures, crew management, decision-making, airport operations, communications, etc)
 -@ulend
 ---
@@ -262,7 +262,18 @@ Given this information, where is the following airplane?
 +++
 ##### Airport Operations
 <iframe class="stretch" data-src"https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1"></iframe>
-
+---
+#### Part 107 Test Resources
+There is far too much knowledge assessed on the Part 107 exam to cover in class.  
+  
+But there are TONS of online resources to help prep for the exam. Here are some of my favorites...  
+  
+@ul
+- [3DR Study Guides...clear and simple information, and some great practice tests](https://3dr.com/faa/study-guides/)
+- [Rupprecht Law Drone Law Blog...surprising and thorough discussions of all things drone regulation](https://jrupprechtlaw.com/part-107-test-study-guide)
+- [FAA Study Guide...basic, but from the horse's mouth](https://www.faa.gov/regulations_policies/handbooks_manuals/aviation/media/remote_pilot_study_guide.pdf)
+- Infinite resources out there...Google! 
+@ulend
 
 
 

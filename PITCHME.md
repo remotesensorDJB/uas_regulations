@@ -173,7 +173,7 @@ The atmosphere is divided into a series of airspace classes with unique rules ab
 Where do sUAS fly?  
 
 @css[fragment](Mainly class...)@css[fragment](**G!**)    
-  @css[fragment](Up to 400ft AGL)
+  @css[fragment](Up to 400ft AGL)  
 @css[fragment](Maybe class...)@css[fragment](**B, C, or D!**)  
   @css[fragment](With ATC permissions)  
 @css[fragment](Rarely class...)@css[fragment](**E**!)  

@@ -191,7 +191,9 @@ A number of companies participate, offering services to gain clearance for Part 
 <iframe class="stretch" data-src="https://faa.maps.arcgis.com/apps/webappviewer/index.html?id=9c2e4406710048e19806ebf6a06754ad"></iframe>
 +++
 ##### Airspace Classifications: Sectional Charts
-<iframe class="stretch" data-src="https://skyvector.com/?ll=38.20556157894775,-85.70136235257931&chart=21&zoom=1"></iframe>
+
+https://skyvector.com/?ll=38.20556157894775,-85.70136235257931&chart=21&zoom=1
+
 +++
 ##### Airspace Classifications: Sectional Chart Legend
 ![Sectional Legend](images/sectional-legend.png)
@@ -261,7 +263,8 @@ Given this information, where is the following airplane?
 @css[fragment](The airplane is **west** of the airfield)
 +++
 ##### Airport Operations
-<iframe class="stretch" data-src="https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1"></iframe>
+
+https://skyvector.com/?ll=38.205480775159074,-84.9200551888946&chart=22&zoom=1
 ---
 #### Part 107 Test Resources
 There is far too much knowledge assessed on the Part 107 exam to cover in class.  
